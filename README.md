@@ -22,19 +22,17 @@
 ---
 
 <p align="center" style="font-style: italic; font-size: 18px; color: #555;">
-  "As a React Native developer, I focus on delivering high-performance mobile applications that offer seamless user experiences across both iOS and Android platforms. My goal is to combine the power of React Native with intuitive design to create apps that users love."
+  As a React Native developer, I focus on delivering high-performance mobile applications that offer seamless user experiences across both iOS and Android platforms. My goal is to combine the power of React Native with intuitive design to create apps that users love.
 </p>
 
 <p align="center" style="font-style: italic; font-size: 18px; color: #555;">
-  "With expertise in React Native, I specialize in building scalable and maintainable mobile applications. I am passionate about leveraging the latest technologies to enhance app performance, ensuring smooth and responsive user interactions."
+  With expertise in React Native, I specialize in building scalable and maintainable mobile applications. I am passionate about leveraging the latest technologies to enhance app performance, ensuring smooth and responsive user interactions.
 </p>
 
-<p align="center" style="font-style: italic; font-size: 18px; color: #555;">
-  "My journey as a React Native developer is driven by a desire to innovate and push the boundaries of what's possible in mobile app development. From concept to deployment, I am committed to delivering solutions that exceed expectations and set new standards for quality."
-</p>
+
 
 <p align="center" style="font-style: italic; font-size: 18px; color: #555;">
-  "I take pride in my ability to integrate native features into React Native apps, providing users with a truly native experience while maintaining the efficiency and flexibility of cross-platform development."
+  I take pride in my ability to integrate native features into React Native apps, providing users with a truly native experience while maintaining the efficiency and flexibility of cross-platform development.
 </p>
 
 ### 🌟 About Me
