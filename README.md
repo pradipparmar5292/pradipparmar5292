@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip Parmar</h1>
-<h3 align="center">A passionate React.js developer from India</h3>
+<h3 align="center">Passionate React Native Developer from India</h3>
 
 <p align="center">
   <a href="https://github.com/pradipparmar5292">
@@ -17,14 +17,14 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **advanced React.js projects to enhance my skills**.
-- 🌱 I’m currently learning **advanced React patterns and TypeScript**.
-- 👯 I’m looking to collaborate on **innovative React.js projects and open-source contributions**.
-- 🤝 I’m looking for help with **optimizing React.js performance and integrating advanced features**.
-- 💬 Ask me about **React.js, front-end development, or optimizing web application performance**.
-- 📫 How to reach me: **[pradip.parmar5292@gmail.com](mailto:pradip.parmar5292@gmail.com)**.
-- ⚡ Fun fact: **Happy**
 
+- **🔭 Current Work:** Innovating with React Native to enhance mobile app experiences.
+- **🌱 Learning:** Advanced React Native techniques and state management.
+- **👯 Looking to Collaborate:** Excited about React Native and mobile app development projects.
+- **🤝 Seeking Help:** Optimizing React Native performance.
+- **💬 Ask Me About:** React Native development and mobile app optimization.
+- **📫 Contact Me:** [pradip.parmar5292@gmail.com](mailto:pradip.parmar5292@gmail.com)
+- **⚡ Fun Fact:** Always happy!
 ---
 
 ### 📜 Quote
